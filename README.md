@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lollagram - Instagram Real Time App
 =============
 
@@ -21,3 +22,9 @@ Michael Lancaster
 
 ## License
 MIT
+=======
+udigram
+=======
+
+Udigram
+>>>>>>> 6d2ff224b584a17709ac27b805c527e55510cfe8
